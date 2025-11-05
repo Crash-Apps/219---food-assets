@@ -1,1 +1,55 @@
-
+{
+  "version": 1,
+  "base": "https://cdn.jsdelivr.net/gh/Crash-Apps/219---food-assets@main/chichiko/",
+  "items": [
+    {
+      "id": "khachapuri",
+      "title": "Adjarian Khachapuri",
+      "desc": "Boat-shaped bread with melted sulguni cheese and egg yolk.",
+      "price": 229,
+      "image": "khachapuri.jpg"
+    },
+    {
+      "id": "khinkali",
+      "title": "Khinkali (Beef & Pork)",
+      "desc": "Traditional Georgian dumplings filled with juicy meat and herbs.",
+      "price": 185,
+      "image": "khinkali.png"
+    },
+    {
+      "id": "pkhali",
+      "title": "Pkhali Trio",
+      "desc": "Spinach, beetroot, and walnut pâtés served with bread.",
+      "price": 165,
+      "image": "pkhali.webp"
+    },
+    {
+      "id": "chashushuli",
+      "title": "Chashushuli",
+      "desc": "Tender beef stew with tomatoes, onions, and Georgian spices.",
+      "price": 265,
+      "image": "chashushuli.jpg"
+    },
+    {
+      "id": "salad",
+      "title": "Georgian Salad with Walnuts",
+      "desc": "Fresh tomatoes, cucumbers, onions, and walnut dressing.",
+      "price": 195,
+      "image": "salad.jpg"
+    },
+    {
+      "id": "churchkhela",
+      "title": "Churchkhela",
+      "desc": "Traditional sweet made of nuts and grape juice.",
+      "price": 85,
+      "image": "churchkhela.jpg"
+    },
+    {
+      "id": "lemonade",
+      "title": "Tarragon Lemonade",
+      "desc": "Refreshing homemade tarragon-flavored drink.",
+      "price": 95,
+      "image": "lemonade.webp"
+    }
+  ]
+}
